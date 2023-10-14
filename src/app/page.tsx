@@ -62,7 +62,7 @@ const Home = () => {
 
 	return (
 		<div className='p-5'>
-			<h1 className='text-center text-primary text-4xl mb-8'>Convertion de note</h1>
+			<h1 className='text-center text-primary text-4xl mb-8'>Conversion de notes</h1>
 			<Card className='w-96 mx-auto mb-8'>
 				<CardHeader className='p-0'>
 					<RadioGroup
